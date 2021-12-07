@@ -13,6 +13,13 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 git clone https://github.com/userName/kodluyoruzilkrepo.git
 ```
 
+Linux için:
+
+```
+cd kodluyoruzilkrepo
+code .
+```
+
 --------------------------
 
 ## Usage
